@@ -24,6 +24,7 @@ The objective is to demonstrate practical Excel data analysis skills, including 
 ---
 
 ## 📂 Project Structure
+```
 Vrinda-Store-Excel-Data-Analysis/
 │
 ├── data/
@@ -36,7 +37,7 @@ Vrinda-Store-Excel-Data-Analysis/
 │ └── dashboard_preview.png
 │
 └── README.md
-
+```
 ---
 
 ## 📄 File Description
