@@ -51,15 +51,16 @@ Vrinda-Store-Excel-Data-Analysis/
 This workbook contains the complete analysis and dashboard.
 
 **Sheet Breakdown:**
-- `Cleaned_Data` → Cleaned and structured dataset used for analysis  
+- `Cleaned_Data` → Cleaned and structured dataset used for analysis    
+- `Dashboard` → Final interactive Excel dashboard
 - `Notes_Data_Cleaning` → Summary of data cleaning and preparation steps  
+- `Insights` → Presenting the main findings from the data analysis  
 - `Analysis_Sales_vs_Orders` → Comparison of sales value and order volume  
 - `Analysis_Gender_Wise_Sales` → Sales distribution by gender  
 - `Analysis_Age_Gender_Distribution` → Customer demographics analysis  
 - `Analysis_Order_Status` → Order completion and cancellation analysis  
 - `Analysis_State_Wise_Sales` → State-wise sales performance  
-- `Analysis_Sales_Channels` → Channel-wise contribution to sales  
-- `Dashboard` → Final interactive Excel dashboard
+- `Analysis_Sales_Channels` → Channel-wise contribution to sales
 
 ---
 
