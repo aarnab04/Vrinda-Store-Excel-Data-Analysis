@@ -103,5 +103,6 @@ It is designed to reflect real-world business analysis and is suitable for entry
 ---
 
 ## 👤 Author
-Arnab Sinha  
+Arnab Sinha
+Website: arnabsinha.wuaze.com
 Aspiring Data Analyst
